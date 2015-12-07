@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{2A93F6C9-B39D-41DE-AF61-0F665AC55169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaGolok.Entities", "PaGolok.Entities\PaGolok.Entities.csproj", "{63A7F8B3-48BC-487F-9E68-CA946552B225}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{A0CC2F05-23ED-4171-8E8E-4FE07A1630FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaGolok.Data", "PaGolok.Data\PaGolok.Data.csproj", "{ACA42C48-4D46-49DB-8D79-E36CA9AEA1A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business Layer", "Business Layer", "{417155C8-B3BF-408D-B0BC-3DF9CC2BF1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaGolok.Services", "PaGolok.Services\PaGolok.Services.csproj", "{CC2D2753-AF52-416A-BFB2-9FAF8646B5DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{08E14E66-4604-40A6-B923-40ACB56D7193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaGolok.Web", "PaGolok.Web\PaGolok.Web.csproj", "{DE6461C7-1CE3-4847-B730-0A245C4D6767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A7F8B3-48BC-487F-9E68-CA946552B225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A7F8B3-48BC-487F-9E68-CA946552B225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A7F8B3-48BC-487F-9E68-CA946552B225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A7F8B3-48BC-487F-9E68-CA946552B225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA42C48-4D46-49DB-8D79-E36CA9AEA1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA42C48-4D46-49DB-8D79-E36CA9AEA1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA42C48-4D46-49DB-8D79-E36CA9AEA1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA42C48-4D46-49DB-8D79-E36CA9AEA1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2D2753-AF52-416A-BFB2-9FAF8646B5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2D2753-AF52-416A-BFB2-9FAF8646B5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2D2753-AF52-416A-BFB2-9FAF8646B5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2D2753-AF52-416A-BFB2-9FAF8646B5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6461C7-1CE3-4847-B730-0A245C4D6767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6461C7-1CE3-4847-B730-0A245C4D6767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6461C7-1CE3-4847-B730-0A245C4D6767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6461C7-1CE3-4847-B730-0A245C4D6767}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63A7F8B3-48BC-487F-9E68-CA946552B225} = {2A93F6C9-B39D-41DE-AF61-0F665AC55169}
+		{ACA42C48-4D46-49DB-8D79-E36CA9AEA1A4} = {A0CC2F05-23ED-4171-8E8E-4FE07A1630FD}
+		{CC2D2753-AF52-416A-BFB2-9FAF8646B5DD} = {417155C8-B3BF-408D-B0BC-3DF9CC2BF1E8}
+		{DE6461C7-1CE3-4847-B730-0A245C4D6767} = {08E14E66-4604-40A6-B923-40ACB56D7193}
+	EndGlobalSection
+EndGlobal

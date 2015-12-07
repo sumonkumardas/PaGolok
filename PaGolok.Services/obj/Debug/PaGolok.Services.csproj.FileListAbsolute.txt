@@ -1,0 +1,12 @@
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\PaGolok.Services.dll
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\PaGolok.Services.pdb
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\PaGolok.Data.dll
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\PaGolok.Entities.dll
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\EntityFramework.dll
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\PaGolok.Data.pdb
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\PaGolok.Entities.pdb
+E:\PaBall\PaGolok\PaGolok.Services\bin\Debug\EntityFramework.xml
+E:\PaBall\PaGolok\PaGolok.Services\obj\Debug\PaGolok.Services.csprojResolveAssemblyReference.cache
+E:\PaBall\PaGolok\PaGolok.Services\obj\Debug\PaGolok.Services.dll
+E:\PaBall\PaGolok\PaGolok.Services\obj\Debug\PaGolok.Services.pdb

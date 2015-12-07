@@ -1,0 +1,4 @@
+E:\PaBall\PaGolok\PaGolok.Entities\bin\Debug\PaGolok.Entities.dll
+E:\PaBall\PaGolok\PaGolok.Entities\bin\Debug\PaGolok.Entities.pdb
+E:\PaBall\PaGolok\PaGolok.Entities\obj\Debug\PaGolok.Entities.dll
+E:\PaBall\PaGolok\PaGolok.Entities\obj\Debug\PaGolok.Entities.pdb
